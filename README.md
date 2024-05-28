@@ -20,6 +20,8 @@
   
 
 ### Main skills:
+![C#](https://img.shields.io/badge/-csharp-0D1117?style=for-the-badge&logo=csharp&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![.NET](https://img.shields.io/badge/-dotnet-0D1117?style=for-the-badge&logo=dotnet&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
