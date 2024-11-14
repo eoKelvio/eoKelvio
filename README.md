@@ -20,24 +20,21 @@
   
 
 ### Main skills:
-![C#](https://img.shields.io/badge/-csharp-0D1117?style=for-the-badge&logo=csharp&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![.NET](https://img.shields.io/badge/-dotnet-0D1117?style=for-the-badge&logo=dotnet&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117&textColor=0D1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![NodeJs](https://img.shields.io/badge/-Node.js-026e00?style=for-the-badge&logo=node.js&logoColor=white&labelColor=026e00)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6)&nbsp;
+![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=306998)&nbsp;
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB)&nbsp;
+![PostgresSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 
 ### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC)&nbsp;
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white&labelColor=0078D4)&nbsp;
 
-### Other Knowledge:
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-  
 ### Studying in this moment:
-![C#](https://img.shields.io/badge/-csharp-0D1117?style=for-the-badge&logo=csharp&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![.NET](https://img.shields.io/badge/-dotnet-0D1117?style=for-the-badge&logo=dotnet&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;
+![NestJS](https://img.shields.io/badge/-NestJS-ea2845?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
 
 
   <div align="center">
